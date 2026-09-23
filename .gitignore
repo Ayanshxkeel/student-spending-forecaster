@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+spending.db
+.DS_Store
